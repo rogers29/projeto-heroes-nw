@@ -1,2 +1,5 @@
 # ProjetoNw
-Projeto New Way
+Projeto New Way - Teste Heroes
+
+# Tecnologias
+PHP
