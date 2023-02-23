@@ -1,5 +1,5 @@
-# ProjetoNw
-Projeto New Way - Teste Heroes
+## Projeto Heroes - NW
+Projeto New Way - Teste Desenvolvedor Jr
 
-# Tecnologias
+### Tecnologias
 PHP
